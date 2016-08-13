@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="winDisplayMsg">You Win!</string>
+    <string name="loseDigMineMsg">Oops, you dug up a mine, you lose :(</string>
+    <string name="loseWrongFlagMsg">This square is not a mine, you lose :(</string>
+    <string name="HardGameBtnString">Hard (8x8 board, 10 mines)</string>
+    <string name="MedGameBtnString">Medium (6x6 board, 6 mines)</string>
+    <string name="EasyGameBtnString">Easy (4x4 board, 3 mines)</string>
+    <string name="cancelAction">Cancel</string>
+</resources>
